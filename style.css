@@ -111,13 +111,12 @@ p {
 @media screen and (max-width:440px) {
 div{
     display: none;
-    background-color: white;
 }
 .resp{
     display: inline;
     margin-top: 5em;
     color: black;
-    
+    font-family: 'Roboto', sans-serif;
     font-size: 3em;
     padding: 5px;
 }
