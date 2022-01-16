@@ -1,1 +1,1 @@
-# Blog
+# Blog for food lovers
