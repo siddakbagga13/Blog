@@ -111,6 +111,7 @@ p {
 @media screen and (max-width:440px) {
 div{
     display: none;
+    background-color: white;
 }
 .resp{
     display: inline;
